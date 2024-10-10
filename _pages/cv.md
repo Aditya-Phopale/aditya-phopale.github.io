@@ -32,7 +32,7 @@ Work experience
   * Numeric Systems GmbH
   * Duties included:
     * Executed benchmark CFD cases on Pacefish software.
-·   * Validated results from the software with the wind tunnel experiments.
+    * Validated results from the software with the wind tunnel experiments.
   * Supervisor: Eugen Riegel
   
 Skills
