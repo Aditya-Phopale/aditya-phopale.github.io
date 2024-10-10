@@ -12,7 +12,7 @@ title: "Aditya Phopale's website"
 title_separator: "-"
 name: &name "Aditya Phopale"
 description: &description "personal description"
-url: https://adyta99.github.io
+url: https://aditya-phopale.github.io
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "Aditya-phopale/aditya-phopale.github.io"
 
