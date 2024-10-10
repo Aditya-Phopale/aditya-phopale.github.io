@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+You can also download full CV [here](https://adyta99.github.io/files/CV.pdf)
 
 Education
 ======
