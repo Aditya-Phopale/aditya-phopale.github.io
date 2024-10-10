@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 - Using neural networks with domain decomposition to solve partial differential equations (Masters Thesis @TUM & Siemens)
-  ![Another Image](../images/Domain_Decomposition_sparsity.png)
-
   - [Masters Thesis Report](https://drive.google.com/file/d/1aRzY0uO0EuEo-sjAcJ55PhoUUyoLp103/view?usp=sharing) and [Masters Thesis Presentation](https://docs.google.com/presentation/d/18DXEvVLHv_ihpI2NOOWP_eQwHBzflc2bxO60JQKBFs0/edit?usp=sharing)
   - Used Extreme Learning Machine (ELM) method to solve partial differential equations.
   - Focused on improving solution accuracy in my thesis by employing better initialization techniques for neural networks, specifically utilizing the [Sampling Where It Matters](https://arxiv.org/abs/2306.16830) (SWIM) method and domain decomposition.
