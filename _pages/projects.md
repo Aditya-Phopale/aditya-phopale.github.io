@@ -26,7 +26,7 @@ redirect_from:
   - Computed the final solution through additive schwarz domain decomposition.
 
 ## 3. Improve Building Efficiency for a Better Future (BGCE @TUM & Siemens)
-<img src="../images/BGCE_image.png" alt="Image 1" width="600"/>
+<img src="../images/BGCE_image.png" alt="Image 1" width="750"/>
   - [Github](https://github.com/Adyta99/EnergyPlusPlus)
   - Collaborated with a team to develop an application to enhance building energy efficiency.
   - Created a building’s thermal model and heating control based on user-provided floor plans.
