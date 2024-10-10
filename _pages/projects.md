@@ -33,7 +33,8 @@ redirect_from:
   - Contributed to this project as part of the honors program at BGCE, supervised by Siemens.
 
 ## 4. Simulating Free Surface Flows using Marker and Cell method (CFD Lab @TUM)
-
+<img src="../images/tank_sloshing_baffles.gif" alt="Image 1" width="450"/>
+<img src="../images/falling_drop.gif" alt="Image 2" width="450"/>
   - [Github](https://github.com/Adyta99/CFD-Lab)
   - Developed an object-oriented 2D parallel CFD solver in C++ for solving incompressible Navier-Stokes equations using Finite Difference Method (FDM).
   - Extended the solver to support free surface flows utilizing the Marker and Cell Method, successfully simulating dam break and tank sloshing scenarios.
