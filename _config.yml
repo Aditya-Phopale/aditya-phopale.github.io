@@ -21,7 +21,7 @@ repository               : "Adyta99/adyta99.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Aditya_image.jpeg"
   name             : "Aditya Phopale"
   pronouns         : # example: "she/her"  
   bio              : "Researcher in the field of Scientific Machine Learning with interests in Neural operators and Physics based diffusion models"
