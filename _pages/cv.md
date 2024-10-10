@@ -10,12 +10,12 @@ redirect_from:
 {% include base_path %}
 You can also download full CV [here](https://adyta99.github.io/files/CV.pdf)
 
-# Education
+## Education
 
 - M.Sc. (Hons.) in Computational Science and Engineering, Technical University of Munich, 2021-2024
 - B.E. in Mechanical Engineering, Birla Institute of Technology and Science, 2017-2021
 
-# Work experience
+## Work experience
 
 - September 2024: Research Assistant
 
@@ -38,7 +38,7 @@ You can also download full CV [here](https://adyta99.github.io/files/CV.pdf)
     - Validated results from the software with the wind tunnel experiments.
   - Supervisor: Eugen Riegel
 
-# Skills
+## Skills
 
 - Programming languages: C++, Python, Julia, MATLAB
 - ML frameworks: Pytorch
@@ -46,10 +46,10 @@ You can also download full CV [here](https://adyta99.github.io/files/CV.pdf)
 - HPC Standards: OpenMP, MPI
 - Analysis: Tecplot, Paraview
 
-# Teaching
+## Teaching
 
 - Machine Design and Drawing, BITS - Jan 2020 - May 2020
 
-# Honours and Awards
+## Honours and Awards
 
 - Bavarian Graduate School of Computational Engineering: Selected for the honours track of Masters in Computational Science and Engineering at TUM. [https://www.bgce.de/](https://www.bgce.de/)
