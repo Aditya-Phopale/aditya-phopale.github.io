@@ -52,4 +52,4 @@ You can also download full CV [here](https://adyta99.github.io/files/CV.pdf)
 
 # Honours and Awards
 
-- Bavarian Graduate School of Computational Engineering: Selected for the honours track of Masters in Computational Science and Engineering at TUM. (https://www.bgce.de/)
+- Bavarian Graduate School of Computational Engineering: Selected for the honours track of Masters in Computational Science and Engineering at TUM. [https://www.bgce.de/](https://www.bgce.de/)
