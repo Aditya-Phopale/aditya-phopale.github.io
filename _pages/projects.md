@@ -1,8 +1,10 @@
 ---
 layout: archive
 title: "Projects"
-permalink: /projetcs/
+permalink: /projects/
 author_profile: true
+redirect_from:
+  - /projects/
 ---
 
 # Projects (During my Masters and Undergraduate)
