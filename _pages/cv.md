@@ -11,54 +11,41 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Sc. (Hons.) in Computational Science and Engineering, Technical University of Munich, 2021-2024
+* B.E. in Mechanical Engineering, Birla Institute of Technology and Science, 2017-2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* September 2024: Research Assistant
+  * University of Notre Dame
+  * Duties includes: Developing a differentiable solver for the pulsed Electro-Chemical Machining process
+  * Supervisor: Prof. Dr. Jianxun Wang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2023 - April 2024: Working Student
+  * Siemens Digital Industries Software 
+  * Duties included: 1. Conducted research in scientific machine learning
+                     2. Employed sampled neural networks with domain decomposition to solve partial differential equations.
+  * Supervisor: Dr. Dirk Hartmann
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* October 2022 - April 2023: Working Student
+  * Numeric Systems GmbH
+  * Duties included: 1. Executed benchmark CFD cases on Pacefish software.
+·                    2. Validated results from the software with the wind tunnel experiments.
+  * Supervisor: Eugen Riegel
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Programming languages: C++, Python, Julia, MATLAB
+* ML frameworks: Pytorch
+* Version control: Git
+* HPC Standards: OpenMP, MPI
+* Analysis: Tecplot, Paraview
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Machine Design and Drawing, BITS - Jan 2020 - May 2020
   
-Service and leadership
+Honours and Awards
 ======
-* Currently signed in to 43 different slack teams
+* Bavarian Graduate School of Computational Engineering: Selected for the honours track of Masters in Computational Science and Engineering at TUM. (https://www.bgce.de/)
