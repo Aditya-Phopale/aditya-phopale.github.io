@@ -8,10 +8,8 @@ redirect_from:
 ---
 
 - Using neural networks with domain decomposition to solve partial differential equations (Masters Thesis @TUM)
-<div style="display: flex; justify-content: space-between;">
-<img src="../images/Domain_Decomposition_sparsity.png" alt="Image 1" style="width: 350px;"/>
+<img src="../images/Domain_Decomposition_sparsity.png" alt="Image 1" width="350"/>
 <img src="../images/LDC_solution.png" alt="Image 2" width="450"/>
-</div>
 <div style="display: flex; justify-content: center; margin-top: 10px;">
 <img src="../images/Comp_conventional_methods.png" alt="Image 2" width="550"/>
 </div>
