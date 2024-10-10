@@ -23,14 +23,16 @@ Work experience
 
 * May 2023 - April 2024: Working Student
   * Siemens Digital Industries Software 
-  * Duties included: 1. Conducted research in scientific machine learning
-                     2. Employed sampled neural networks with domain decomposition to solve partial differential equations.
+  * Duties included:
+    * Conducted research in scientific machine learning
+    * Employed sampled neural networks with domain decomposition to solve partial differential equations.
   * Supervisor: Dr. Dirk Hartmann
 
 * October 2022 - April 2023: Working Student
   * Numeric Systems GmbH
-  * Duties included: 1. Executed benchmark CFD cases on Pacefish software.
-·                    2. Validated results from the software with the wind tunnel experiments.
+  * Duties included:
+    * Executed benchmark CFD cases on Pacefish software.
+·   * Validated results from the software with the wind tunnel experiments.
   * Supervisor: Eugen Riegel
   
 Skills
