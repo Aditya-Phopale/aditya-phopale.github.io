@@ -19,7 +19,7 @@ redirect_from:
 
 ## 2. Domain decomposition to accelerate learning of Physics Informed Neural Network (PINN) (Seminar course @TUM)
 <img src="../images/local_solutions_DD.png" alt="Image 1" width="450"/>
-<img src="../images/total_solution.png" alt="Image 2" width="430"/>
+<img src="../images/total_solution.png" alt="Image 2" width="435"/>
   - [Seminar Paper](https://drive.google.com/file/d/1elvUBqhF1Wdt8j4vHsZ2z32bcLWm-73M/view?usp=sharing)
   - Replicated a paper implementing Finite Basis Physics-Informed Neural Network (FBPINN). link
   - Implemented overlapping subdomains to solve partial differential equations using Physics-Informed Neural Networks.
