@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Hi! Welcome to the site"
+title: "Hi! Welcome to my site"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I am Aditya Phopale. I have completed my Masters (Hons.) in Computational Science and Engineering at the Technical University of Munich, Germany. Currently, I am working as a Research Assistant under the supervision of [Prof. Dr. Jianxun Wang](https://engineering.nd.edu/faculty/jian-xun-wang/) from the University of Notre Dame, USA. Initially, I studied Mechanical Engineering at the Birla Institute of Technology and Science, India.
+My name is Aditya Phopale. I hold a Master's (Hons.) in Computational Science and Engineering from the Technical University of Munich, Germany, and am currently working as a Research Assistant under the guidance of [Prof. Dr. Jianxun Wang](https://engineering.nd.edu/faculty/jian-xun-wang/) at the University of Notre Dame, USA. My academic journey began with a degree in Mechanical Engineering from the Birla Institute of Technology and Science, India.
 
-I am interested in the research at the intersection of CFD and machine learning, particularly in Neural Operators and am also interested in upcoming research areas of using generative AI methods to learn the distribution of chaotic turbulent flows.
+I am passionate about research that lies at the intersection of computational fluid dynamics (CFD) and machine learning. My current focus is on neural operators, and I am particularly excited about the emerging possibilities of using generative AI to understand and predict chaotic turbulent flows.
