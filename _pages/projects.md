@@ -39,7 +39,7 @@ redirect_from:
   - Developed an object-oriented 2D parallel CFD solver in C++ for solving incompressible Navier-Stokes equations using Finite Difference Method (FDM).
   - Extended the solver to support free surface flows utilizing the Marker and Cell Method, successfully simulating dam break and tank sloshing scenarios.
 
-## 5. Using Entropically Damped Artificial Compressibility to simulate Rayleigh-Benard Convection (Undergraduate Thesis @BITS)
+## 5. Entropically Damped Artificial Compressibility using Compact finite-difference scheme (Undergraduate Thesis @BITS)
 <img src="../images/Vortex_collision.png" alt="Image 1" width="450"/>
 <img src="../images/Thermal_blob.png" alt="Image 2" width="450"/>
   - [Undergraduate Thesis Report](https://drive.google.com/file/d/1KlfDYjxakmnmxWMtsdNPuePczoYdpFKv/view?usp=sharing)
