@@ -40,8 +40,8 @@ redirect_from:
   - Extended the solver to support free surface flows utilizing the Marker and Cell Method, successfully simulating dam break and tank sloshing scenarios.
 
 ## 5. Using Entropically Damped Artificial Compressibility to simulate Rayleigh-Benard Convection (Undergraduate Thesis @BITS)
-<img src="../images/Vortex_collision" alt="Image 1" width="450"/>
-<img src="../images/Thermal_blob" alt="Image 2" width="450"/>
+<img src="../images/Vortex_collision.png" alt="Image 1" width="450"/>
+<img src="../images/Thermal_blob.png" alt="Image 2" width="450"/>
   - [Undergraduate Thesis Report](https://drive.google.com/file/d/1KlfDYjxakmnmxWMtsdNPuePczoYdpFKv/view?usp=sharing)
   - Utilized the EDAC technique to obtain solutions for the Navier-Stokes equation, bypassing the pressure
   - Poisson equation by implementing a pressure-evolving equation.
