@@ -43,6 +43,5 @@ redirect_from:
 <img src="../images/Vortex_collision.png" alt="Image 1" width="450"/>
 <img src="../images/Thermal_blob.png" alt="Image 2" width="450"/>
   * [Undergraduate Thesis Report](https://drive.google.com/file/d/1KlfDYjxakmnmxWMtsdNPuePczoYdpFKv/view?usp=sharing)
-  * Utilized the EDAC technique to obtain solutions for the Navier-Stokes equation, bypassing the pressure
-  * Poisson equation by implementing a pressure-evolving equation.
-  * Extended the existing Fortran codebase for the Rayleigh-Bénard Convection Problem, adding new functionalities and improving performance.
+  * Utilized the EDAC technique to obtain solutions for the Navier-Stokes equation, bypassing the Pressure Poisson equation by implementing a pressure-evolving equation.
+  * Learnt about openMP and FORTRAN programming
