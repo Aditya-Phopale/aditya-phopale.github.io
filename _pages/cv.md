@@ -17,12 +17,6 @@ You can also download full CV [here](https://adyta99.github.io/files/CV.pdf)
 
 ## Work experience
 
-- September 2024: Research Assistant
-
-  - University of Notre Dame
-  - Duties includes: Developing a differentiable solver for the pulsed Electro-Chemical Machining process
-  - Supervisor: Prof. Dr. Jianxun Wang
-
 - May 2023 - April 2024: Working Student
 
   - Siemens Digital Industries Software
