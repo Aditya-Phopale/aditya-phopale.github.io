@@ -17,11 +17,16 @@ You can also download full CV [here](https://aditya-phopale.github.io/files/CV.p
 
 ## Work experience
 
+- Jan 2025 - Present: Ansys, Central CTO Team
+  - Collaborate in research on foundation models for physics simulations.
+  - Gained experience in Computer vision tools like Neural Radiance Field and foundation models for
+physics like POSEIDON.
+
 - May 2023 - April 2024: Working Student
 
   - Siemens Digital Industries Software
   - Duties included:
-    - Conducted research in scientific machine learning
+    - Conducted research in scientific machine learning.
     - Employed sampled neural networks with domain decomposition to solve partial differential equations.
   - Supervisor: Dr. Dirk Hartmann
 
