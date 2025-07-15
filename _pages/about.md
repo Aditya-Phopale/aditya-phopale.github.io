@@ -13,5 +13,5 @@ I am passionate about research that lies at the intersection of computational fl
 
 <img src="/images/492214282_1000275465527233_6063022806271349702_n.jpg" width="24%">
 <img src="/images/TUM-logo-1-e1646633307305-954x406.png" width="24%">
-<img src="/images/siemens-logo.png.jpg" width="24%">
+<img src="/images/siemens-logo.png" width="24%">
 <img src="/images/ansys-logo_brandlogos.net_snebi.png" width="24%">
